@@ -374,9 +374,6 @@ Author URI  : https://themeforest.net/user/themelooks
 
     // ===================== Youtube Thumbnail ================
 
-    $('iframe.yt-hd-thumbnail').youTubeHDThumbnail({
-        darkenThumbnail: false
-    });
 
     // =========================================================
 
